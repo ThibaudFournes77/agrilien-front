@@ -1,0 +1,22 @@
+@use 'src/styles/vars' as v;
+
+.header__logo{
+  font-weight: 600;
+  color: v.$white;
+  text-align: "left";
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+
+  &__button{
+    font-weight: 700;
+    size: v.$gutter;
+    margin-left: v.$gutter * 2.2;
+  }
+}
+
+.drawer-container{
+  padding: v.$gutter v.$gutter * 2;
+}

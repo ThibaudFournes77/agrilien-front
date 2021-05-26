@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 12,
+      "label": "Insolite",
+      "group": "Autre"
+    },
+    {
+      "id": 13,
+      "label": "Eleveur connecté",
+      "group": "Autre"
+    },
+    {
+      "id": 14,
+      "label": "Permaculture",
+      "group": "Autre"
+    }
+  ]
+}

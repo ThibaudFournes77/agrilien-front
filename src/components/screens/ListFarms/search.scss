@@ -1,0 +1,14 @@
+
+.searchForm{
+  margin-bottom : 20px;
+
+  &__bio:checked{
+    color: v.$color-primary;
+  }
+
+  &__submit{
+    padding-top: v.$gutter;
+    padding-left: v.$gutter;
+    color: v.$color-secondary;
+  }
+}

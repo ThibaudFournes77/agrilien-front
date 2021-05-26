@@ -1,0 +1,32 @@
+@use 'src/styles/vars' as v;
+
+// We give to the inputs all the width of their containers (so we control their width with xs, md, lg classes)
+.MuiFormControl-root{
+  width: 100%;
+}
+
+.farm-creation{
+  &__picture-input-title{
+    padding-top: 40px !important;
+  }
+
+  &__textarea{
+    width: 80%;
+  }
+}
+
+.bio-switch{
+  color: v.$color-primary;
+}
+
+.label-switch{
+  color: v.$color-secondary;
+}
+
+@media screen and (min-width: 600px) {
+  .farm-creation__end-buttons{
+    margin-left: 80%;
+    display: flex;
+    justify-content: space-between;
+  }
+}

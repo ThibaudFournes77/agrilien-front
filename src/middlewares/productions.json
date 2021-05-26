@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "label": "Elevage bovin",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 2,
+      "label": "Elevage ovin",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 3,
+      "label": "Elevage équin",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 4,
+      "label": "Volailles",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 5,
+      "label": "Pisciculture",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 6,
+      "label": "Grandes cultures",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 7,
+      "label": "Culture sous serres",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 8,
+      "label": "Culture fruitière",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 9,
+      "label": "Floriculture",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 10,
+      "label": "Maraîchage",
+      "group": "Productions secondaires"
+    },
+    {
+      "id": 11,
+      "label": "Viticulture",
+      "group": "Productions secondaires"
+    }
+  ]
+}

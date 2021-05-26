@@ -1,0 +1,86 @@
+  
+{
+  "data": [
+    {
+    "id": 1,
+    "type": "Gîte",
+    "capacity": 5,
+    "min_nights": 2,
+    "price": "75,00 €",
+    "ccy": "EUR",
+    "title": "Ferme de rêve",
+    "description_farm": "Lorem ipsum",
+    "description_activities": "Tada dida",
+    "main_activity": "Elevage bovin",
+    "certified_label": false,
+    "certified_organic": true,
+    "country": "France",
+    "region": "Occitanie",
+    "department": "Aude",
+    "postcode": "11100",
+    "city": "Narbonne",
+    "street": "2 Rue de la Paix",
+    "coord_latitude": null,
+    "coord_longitude": null,
+    "validated": true,
+    "user_id": 2,
+    "picture": null,
+    "categories": [
+      {
+        "farm_id": 1,
+        "cat_id": 1,
+        "label": "Elevage bovin",
+        "group": "Activité secondaire"
+      },
+      {
+        "farm_id": 1,
+        "cat_id": 2,
+        "label": "Elevage ovin",
+        "group": "Activité secondaire"
+      },
+      {
+        "farm_id": 1,
+        "cat_id": 4,
+        "label": "Volailles",
+        "group": "Activité secondaire"
+      },
+      {
+        "farm_id": 1,
+        "cat_id": 14,
+        "label": "Permaculture",
+        "group": "Autre"
+      }
+    ],
+    "planning": [
+      {
+        "id": 8,
+        "arrival_date": "2020-12-31T23:00:00.000Z",
+        "departure_date": "2021-03-30T22:00:00.000Z",
+        "available": false,
+        "farm_id": 1
+      },
+      {
+        "id": 1,
+        "arrival_date": "2021-04-30T22:00:00.000Z",
+        "departure_date": "2021-05-06T22:00:00.000Z",
+        "available": true,
+        "farm_id": 1
+      },
+      {
+        "id": 2,
+        "arrival_date": "2021-05-07T22:00:00.000Z",
+        "departure_date": "2021-05-11T22:00:00.000Z",
+        "available": false,
+        "farm_id": 1
+      },
+      {
+        "id": 3,
+        "arrival_date": "2021-05-12T22:00:00.000Z",
+        "departure_date": "2021-12-30T23:00:00.000Z",
+        "available": true,
+        "farm_id": 1
+      }
+    ]
+  }
+]
+}
